@@ -8,6 +8,8 @@ This project takes a labelled dataset of playing card images from multiple decks
 
 The dataset was found on Kaggle: https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
 
+Download the dataset from Kaggle before running the script.
+
 Only traditional machine learning methods are used. The validation accuracy is around 80 percent.
 
 In another repository on my profile, you may find this dataset addressed using a neural network.
